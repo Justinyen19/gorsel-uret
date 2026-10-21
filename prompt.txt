@@ -1,0 +1,392 @@
+GÖREV:
+
+Verilen referans ürün görselini profesyonel bir sanal market / e-ticaret stüdyo ürün fotoğrafına dönüştür.
+
+ÖNCE REFERANS GÖRSELİ DİKKATLİCE ANALİZ ET, SONRA DÖNÜŞTÜR.
+
+Bu işlem yeni bir ürün görseli tasarlama görevi değildir.
+
+Referans görseldeki GERÇEK ÜRÜN korunacaktır. Yalnızca ürünün sunumu, fiziksel düzgünlüğü, hizalaması, arka planı ve stüdyo çekim kalitesi profesyonelleştirilecektir.
+
+
+━━━━━━━━━━━━━━━━━━━━━━
+1. ÖNCE REFERANS ÜRÜNÜ ANALİZ ET
+━━━━━━━━━━━━━━━━━━━━━━
+
+Görsel oluşturmadan önce referans ürünü dikkatlice analiz et.
+
+Şunları tespit et ve KİLİTLE:
+
+- Ürünün gerçek şekli
+- Ürünün gerçek en-boy oranı
+- Ambalaj tipi
+- Ambalaj formu
+- Marka
+- Logo
+- Ürün adı
+- Tüm görünür yazılar
+- Yazıların konumları
+- Tipografi görünümü
+- Renkler
+- Grafikler
+- Desenler
+- Ürün görselleri
+- Etiketler
+- Kapak veya ambalaj detayları
+- Barkod görünüyorsa barkod
+- Paket içerisindeki ürün sayısı
+- Ürünün ön yüzü
+- Ambalajın genel geometrisi
+
+Bunları üretim sırasında değiştirme.
+
+
+━━━━━━━━━━━━━━━━━━━━━━
+2. REFERANSA MUTLAK SADAKAT
+━━━━━━━━━━━━━━━━━━━━━━
+
+Çıktıdaki ürün referans görseldeki ürünün AYNISI olmalıdır.
+
+ÜRÜNÜ YENİDEN TASARLAMA.
+
+ÜRÜNÜ FARKLI BİR VERSİYON OLARAK YENİDEN OLUŞTURMA.
+
+Aşağıdaki unsurlar birebir korunmalıdır:
+
+- Ambalaj
+- Logo
+- Marka adı
+- Ürün adı
+- Yazılar
+- Yazıların konumları
+- Renkler
+- Grafikler
+- Desenler
+- Etiketler
+- Ürün üzerindeki görseller
+- Kapak
+- Paket yapısı
+- Ürün adedi
+- Barkod
+- Ürünün gerçek oranları
+
+Referansta bulunmayan hiçbir logo, yazı, grafik, desen, etiket veya tasarım öğesi ekleme.
+
+Mevcut yazıları yeniden yazma, değiştirme, düzeltme veya farklı bir tipografiyle oluşturma.
+
+Ambalaj tasarımını "iyileştirmeye" çalışma.
+
+TASARIMI DEĞİL, FOTOĞRAFIN SUNUMUNU İYİLEŞTİR.
+
+
+━━━━━━━━━━━━━━━━━━━━━━
+3. ÜRÜN YÖNÜ VE POZİSYONU — KRİTİK
+━━━━━━━━━━━━━━━━━━━━━━
+
+Ürün görselin TAM MERKEZİNDE bulunmalıdır.
+
+Ürün DİMDİK durmalıdır.
+
+Ürünün merkezi, tuvalin merkeziyle çakışmalıdır.
+
+Ürünün dikey ekseni görselin dikey eksenine paralel olmalıdır.
+
+Ürünün ÖN YÜZÜ kameraya TAM KARŞIDAN bakmalıdır.
+
+Ön yüz görüntü düzlemine mümkün olduğunca paralel olmalıdır.
+
+Kamera ürünün tam merkezinin karşısında bulunmalıdır.
+
+Kamera açısı nötr ve düz olmalıdır.
+
+KESİNLİKLE YAPMA:
+
+- Ürünü sağa döndürme
+- Ürünü sola döndürme
+- Ürünü yana çevirme
+- Ürünü eğme
+- Ürünü yatırma
+- Ürünü çapraz yerleştirme
+- 3/4 açı kullanma
+- Dinamik kamera açısı kullanma
+- Ürünü yukarıdan çekme
+- Ürünü aşağıdan çekme
+- Gereksiz perspektif oluşturma
+- Ürünü sağa veya sola kaydırma
+
+Ürün profesyonel e-ticaret katalog fotoğrafındaki gibi düz, nötr, simetrik ve merkezlenmiş görünmelidir.
+
+
+━━━━━━━━━━━━━━━━━━━━━━
+4. KADRAJ VE ÜRÜN BOYUTU — ÇOK KRİTİK
+━━━━━━━━━━━━━━━━━━━━━━
+
+Çıktı:
+
+1000 × 1000 piksel
+1:1 kare format.
+
+CLOSE-UP ÇEKİM YAPMA.
+
+ÜRÜN KADRAJI DOLDURMAMALIDIR.
+
+Kamerayı üründen yeterince uzakta konumlandır.
+
+Ürün beyaz tuval içerisinde küçük, dengeli ve ferah görünmelidir.
+
+
+ÖLÇEK KURALI:
+
+Önce ürünün hangi boyutunun daha uzun olduğunu belirle:
+
+- Ürün yatay ise GENİŞLİĞİ esas al.
+- Ürün dikey ise YÜKSEKLİĞİ esas al.
+
+Ürünün EN UZUN BOYUTU, 1000 × 1000 tuvalin yaklaşık %60–65'ini kaplamalıdır.
+
+%65'İ GEÇMEMELİDİR.
+
+ÖRNEK:
+
+Yatay ve geniş bir ürünse:
+Ürün genişliği yaklaşık 600–650 piksel olmalıdır.
+
+Dikey ve uzun bir ürünse:
+Ürün yüksekliği yaklaşık 600–650 piksel olmalıdır.
+
+Ürünün diğer boyutu kendi doğal en-boy oranına göre otomatik olarak belirlenmelidir.
+
+ÜRÜNÜ ESNETME.
+
+ÜRÜNÜ SIKIŞTIRMA.
+
+ÜRÜNÜN EN-BOY ORANINI DEĞİŞTİRME.
+
+
+━━━━━━━━━━━━━━━━━━━━━━
+5. ZORUNLU BEYAZ BOŞLUK
+━━━━━━━━━━━━━━━━━━━━━━
+
+Ürünün çevresinde dört tarafta da BELİRGİN ve GENİŞ beyaz boşluk bulunmalıdır.
+
+Ürün:
+
+- Üst kenara yaklaşmamalı
+- Alt kenara yaklaşmamalı
+- Sol kenara yaklaşmamalı
+- Sağ kenara yaklaşmamalı
+
+Hiçbir ürün parçası görüntünün kenarına temas etmemelidir.
+
+Ürünün çevresindeki boş beyaz alan kompozisyonun önemli bir parçasıdır.
+
+Beyaz boşlukları kırpmaya çalışma.
+
+Ürünü boş alanı doldurmak amacıyla büyütme.
+
+"Ürünü mümkün olduğunca büyük göster" yaklaşımını KULLANMA.
+
+Bunun yerine:
+
+"Ürünü merkezde, kontrollü ölçekte ve çevresinde geniş negatif alan olacak şekilde göster."
+
+Ürün ilk bakışta kadraja göre büyük görünüyorsa:
+KAMERAYI UZAKLAŞTIR VE ÜRÜNÜ KÜÇÜLT.
+
+
+━━━━━━━━━━━━━━━━━━━━━━
+6. ARKA PLAN
+━━━━━━━━━━━━━━━━━━━━━━
+
+Arka plan tamamen SAF BEYAZ olmalıdır.
+
+HEX:
+
+#FFFFFF
+
+Arka planda kesinlikle:
+
+- Gradient olmasın
+- Gri ton olmasın
+- Doku olmasın
+- Zemin olmasın
+- Zemin çizgisi olmasın
+- Horizon çizgisi olmasın
+- Dekor olmasın
+- Başka obje olmasın
+- Yansıma olmasın
+
+Sadece ürün + saf beyaz arka plan.
+
+
+━━━━━━━━━━━━━━━━━━━━━━
+7. GÖLGE
+━━━━━━━━━━━━━━━━━━━━━━
+
+TAMAMEN GÖLGESİZ.
+
+Ürünün:
+
+- Altında
+- Arkasında
+- Sağında
+- Solunda
+
+gölge oluşturma.
+
+Drop shadow kullanma.
+
+Temas gölgesi kullanma.
+
+Zemin gölgesi kullanma.
+
+Ürün saf beyaz arka plan üzerinde temiz şekilde izole edilmiş görünmelidir.
+
+
+━━━━━━━━━━━━━━━━━━━━━━
+8. PROFESYONEL STÜDYO IŞIKLANDIRMASI
+━━━━━━━━━━━━━━━━━━━━━━
+
+Aydınlık, profesyonel high-key e-ticaret ürün fotoğrafçılığı kullan.
+
+Büyük ve yumuşak softbox aydınlatma görünümü oluştur.
+
+Işık ürünün tamamına dengeli dağılmalıdır.
+
+Hedef:
+
+- Temiz
+- Aydınlık
+- Net
+- Dengeli pozlanmış
+- Profesyonel
+- Gerçekçi ürün fotoğrafı
+
+Sert ışık kullanma.
+
+Sert highlight oluşturma.
+
+Aşırı parlama oluşturma.
+
+Renkleri soldurma.
+
+Ürünün gerçek renklerini değiştirme.
+
+Ambalaj üzerindeki yansımaları kontrollü ve doğal tut.
+
+
+━━━━━━━━━━━━━━━━━━━━━━
+9. FİZİKSEL AMBALAJ DÜZELTMELERİ
+━━━━━━━━━━━━━━━━━━━━━━
+
+Referans üründe fotoğraf çekiminden veya fiziksel ambalaj durumundan kaynaklanan küçük kusurlar düzeltilebilir.
+
+Örneğin:
+
+- Hafif kırışıklıkları azalt
+- Küçük ezilmeleri düzelt
+- Paketi daha düzgün göster
+- Ambalaj deformasyonlarını azalt
+- Ürünün dik durmasını sağla
+- Gereksiz fiziksel yamuklukları düzelt
+
+ANCAK:
+
+Bu düzeltmeler ambalaj tasarımını değiştirmemelidir.
+
+Logo değişmemeli.
+
+Yazılar değişmemeli.
+
+Grafikler değişmemeli.
+
+Ürün geometrisi farklılaştırılmamalı.
+
+Paket içerisindeki ürün sayısı değişmemeli.
+
+FİZİKSEL KUSURLARI DÜZELT,
+TASARIMI DEĞİŞTİRME.
+
+
+━━━━━━━━━━━━━━━━━━━━━━
+10. SON KONTROL — ÜRETMEDEN ÖNCE
+━━━━━━━━━━━━━━━━━━━━━━
+
+Final görseli oluşturmadan önce sonucu kontrol et:
+
+1. Referanstaki ürünün aynısı mı?
+
+2. Ambalaj tasarımı aynı mı?
+
+3. Logo, marka ve ürün adı korunmuş mu?
+
+4. Yazılar ve yazı konumları korunmuş mu?
+
+5. Renkler, desenler ve grafikler korunmuş mu?
+
+6. Ürün sayısı aynı mı?
+
+7. Ürünün gerçek en-boy oranı korunmuş mu?
+
+8. Ürün TAM MERKEZDE mi?
+
+9. Ürün DİMDİK mi?
+
+10. Ürün kameraya TAM KARŞIDAN mı bakıyor?
+
+11. Üründe sağa veya sola dönüş var mı?
+Varsa düzelt.
+
+12. Perspektif veya 3/4 açı var mı?
+Varsa düzelt.
+
+13. Ürünün EN UZUN BOYUTU tuvalin %65'inden büyük mü?
+Büyükse ÜRÜNÜ KÜÇÜLT.
+
+14. Dört tarafta geniş beyaz boşluk açıkça görünüyor mu?
+Görünmüyorsa ÜRÜNÜ KÜÇÜLT.
+
+15. Ürün herhangi bir kenara çok yakın mı?
+Yakınsa ÜRÜNÜ KÜÇÜLT.
+
+16. Arka plan tam #FFFFFF mı?
+
+17. Herhangi bir gölge var mı?
+Varsa kaldır.
+
+18. Görsel 1000 × 1000 ve 1:1 mi?
+
+Tüm koşullar sağlanmadan final görseli oluşturma.
+
+
+━━━━━━━━━━━━━━━━━━━━━━
+EN ÖNEMLİ 5 KURAL
+━━━━━━━━━━━━━━━━━━━━━━
+
+1. REFERANS ÜRÜNÜ VE AMBALAJ TASARIMINI DEĞİŞTİRME.
+
+2. ÜRÜNÜ TAM MERKEZDE, DİK VE KAMERAYA TAM KARŞIDAN GÖSTER.
+
+3. ÜRÜNÜN EN UZUN BOYUTU TUVALİN %60–65'İ OLMALI VE %65'İ GEÇMEMELİ.
+
+4. DÖRT TARAFTA BELİRGİN, GENİŞ VE TEMİZ BEYAZ BOŞLUK BIRAK.
+
+5. ARKA PLAN SAF #FFFFFF VE TAMAMEN GÖLGESİZ OLMALI.
+
+
+SON TALİMAT:
+
+Referans ürünü yeniden oluşturulacak bir tasarım olarak değil, korunması gereken gerçek ürün olarak ele al.
+
+Referans = ürün kimliği.
+Dönüşüm = yalnızca profesyonel stüdyo sunumu.
+
+Ürünün tasarımına dokunma.
+
+Ürünü kadrajı dolduracak şekilde büyütme.
+
+Şüphe durumunda ürünü büyütmek yerine KÜÇÜLT.
+
+Şüphe durumunda açı vermek yerine TAM KARŞIDAN göster.
+
+Şüphe durumunda yeniden tasarlamak yerine REFERANSA SADIK KAL.
